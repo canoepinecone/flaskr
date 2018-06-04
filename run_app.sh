@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/bin/bash
 
 # first run source env/bin/activate on unix-like systems
 
